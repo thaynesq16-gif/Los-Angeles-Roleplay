@@ -205,7 +205,7 @@ export const botConfig = {
   // SHOP SETTINGS
   // =========================
   // Add shop defaults here when needed.
-  shop: {
+  shop: {Department_Early_Access
 
   },
 
